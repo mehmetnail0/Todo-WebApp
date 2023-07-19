@@ -242,7 +242,7 @@ export default function Home() {
           }
         })}
         
-        <a href="/pdf">Download PDF</a>
+  //      <a href="/pdf">Download PDF</a>
         
       </Container>
     </div>
